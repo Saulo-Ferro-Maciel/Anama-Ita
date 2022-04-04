@@ -1,9 +1,8 @@
 # AnamaIta
 Agenda digital para contabilidade e gerenciamento de clientes
->>Este pequeno software foi feito por Saulo Ferro Maciel.
 
+>This small project/software was developed by Saulo Ferro Maciel.
+>The intention is to help my parents who are accountants, but it can help catalog and manage their clients.
 
->>Seu objetivo é ajudar seus pais a organizar os dados dos clientes
-Contato do desenvolvedor:
-maciel.ferro@acad.ifma.edu.br
+My developer contact:
 kogasaal@gmail.com
