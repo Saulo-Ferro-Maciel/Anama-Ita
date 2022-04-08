@@ -7,4 +7,4 @@ Its purpose is to help my parents, so I created it very simple and without a def
 Developer Contact:
 >maciel.ferro@acad.ifma.edu.br | 
 >kogasaal@gmail.com | 
->https://www.linkedin.com/in/saulo-ferro-maciel-74b65a1b8/
+>acess [link to my LinkedIn profile](https://www.linkedin.com/in/saulo-ferro-maciel-74b65a1b8/)
