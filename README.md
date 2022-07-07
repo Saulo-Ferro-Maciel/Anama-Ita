@@ -6,7 +6,7 @@ Its purpose is to help my parents, so I created it very simple and without a def
 
 **Programming Languages ​​Used:**          
 	1. PYTHON                                       
-	2. SQL
+	2. SQLite
 
 **Developer Contact:**         
 	1. maciel.ferro@acad.ifma.edu.br  
