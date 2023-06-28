@@ -9,7 +9,7 @@ echo "
 >>This version is still being designed, and does not have a binary executable.
 
 Developer Contact:
- maciel.ferro@acad.ifma.edu.br 
+ sauloferromaciel@gmail.com
  kogasaal@gmail.com";
 exit
 
